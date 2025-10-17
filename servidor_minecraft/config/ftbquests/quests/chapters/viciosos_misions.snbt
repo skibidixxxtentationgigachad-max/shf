@@ -1,0 +1,534 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "viciosos_misions"
+	group: ""
+	id: "53DF651AD6D8CFBB"
+	order_index: 4
+	quest_links: [ ]
+	quests: [
+		{
+			id: "62D5380D5DAE2F6F"
+			rewards: [
+				{
+					count: 8
+					id: "12180915FD84DF6D"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "26C3CA42DD88F486"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "572DCD31C872E7B3"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+			]
+			subtitle: "Im Invincible"
+			tasks: [{
+				count: 64L
+				id: "0CC1149E6C0D8D7C"
+				item: { Count: 64, id: "dedsafio3:nutri_totem" }
+				type: "item"
+			}]
+			title: "Consigue 64 totems de nutria"
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			id: "2B3F6351E374054A"
+			rewards: [
+				{
+					count: 8
+					id: "078DCBDE2AF1B304"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "33161461E0A6CAC8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "771B21AECF4D03F6"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+			]
+			subtitle: "Aprovechen el bug"
+			tasks: [{
+				id: "215DCD110331031F"
+				points: false
+				type: "xp"
+				value: 2000L
+			}]
+			title: "Consigue 2000 niveles"
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "5AB630AAD6D8C060"
+			rewards: [
+				{
+					count: 4
+					id: "7B81BB56469AC844"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "4878AB41FACC96DD"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7215E423017581BD"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+			]
+			subtitle: "Entre a todas!!!!"
+			tasks: [
+				{
+					dimension: "minecraft:overworld"
+					id: "5576A12D918760D4"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_end"
+					id: "365014BB0960FD7B"
+					type: "dimension"
+				}
+				{
+					dimension: "minecraft:the_nether"
+					id: "1610018075492597"
+					type: "dimension"
+				}
+				{
+					dimension: "ihfr:the_carnage"
+					id: "6FEC6B69177943CF"
+					type: "dimension"
+				}
+				{
+					dimension: "grotesque_steve:stomach"
+					id: "4EBD3B6F75231602"
+					type: "dimension"
+				}
+			]
+			title: "Visita todas las dimensiones"
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "421599292CC23315"
+			rewards: [
+				{
+					count: 8
+					id: "49C45EAC526D55C6"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2798CC4C5E6E8C70"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "5DC95E0A85DFE95A"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "1BC920E848C9675D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "62B94C4F0081D245"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "23E04425C9775567"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "77403E621FDC35AA"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "124780FF6B69C306"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "18BA1E19A271FD44"
+					item: "iceandfire:dragonsteel_fire_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:zombie"
+				icon: "easy_npc:zombie_spawn_egg"
+				id: "65A8B380A27F5CCF"
+				title: "2500 ZOMBIS?"
+				type: "kill"
+				value: 1000L
+			}]
+			title: "1000 ZOMBIES?"
+			x: -1.0d
+			y: 0.0d
+		}
+		{
+			can_repeat: true
+			id: "3F5E6CCC713CDB39"
+			rewards: [
+				{
+					count: 8
+					id: "4A602AA21FF6E048"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "71AC69E718367624"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6DE404B669B56540"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "48B84572AAE52796"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "2D6FA7055AF5E4FF"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3C7746DD79B94980"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "0A4D3D90D2221633"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "1FDED7B8835B8074"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "78AF310A95680111"
+					item: "iceandfire:dragonsteel_ice_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:skeleton"
+				icon: "minecraft:skeleton_skull"
+				id: "2DB19A4754F66F30"
+				title: "1000 ESQUELETOS?"
+				type: "kill"
+				value: 1000L
+			}]
+			x: -2.0d
+			y: 0.0d
+		}
+		{
+			id: "558FC779A6704D16"
+			rewards: [
+				{
+					count: 8
+					id: "6500E453048F8EE7"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "6236CA64C3E26BB6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "24C7AB0001F0DE12"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "1E4A524695A7A01A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "4994A753B0F55E63"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "7711A4C870A3130E"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "617D5F5F177F5FA5"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "33FC9B8CD28DC6DC"
+					item: "iceandfire:dragonsteel_lightning_ingot"
+					type: "item"
+				}
+				{
+					id: "54AF98D95518A017"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:creeper"
+				icon: "minecraft:creeper_head"
+				id: "1FA099D5FF797E6F"
+				title: "1000 CREEPERS?"
+				type: "kill"
+				value: 1000L
+			}]
+			x: -3.0d
+			y: 0.0d
+		}
+		{
+			id: "7424ED0A2D97251C"
+			rewards: [
+				{
+					count: 8
+					id: "30995A91E039D95C"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "64B1734770A49F2C"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "771ADCB510BF17AA"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "7186F62F4EC85F65"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "76DC431CB000C105"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "6F733C3ED755C9F5"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "47404F788295CAC4"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "54A2A949292D95DE"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "3B81122F5E95DAF3"
+					item: "iceandfire:dragonsteel_fire_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:spider"
+				icon: "minecraft:spider_eye"
+				id: "34427D0F9C37271B"
+				title: "1000 ARAÑAS?"
+				type: "kill"
+				value: 1000L
+			}]
+			x: -4.0d
+			y: 0.0d
+		}
+		{
+			id: "69C055C824D58F08"
+			rewards: [
+				{
+					count: 20
+					id: "4A5FD90AF06CE868"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3424C40897F8C2D1"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "40147C766BCA15D6"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3F403D63731F456D"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "19E12A64D7D00DF6"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "565833E114558266"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "225C251606C10B04"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "6EF53BF294491111"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "40C8A2DA57E388A8"
+					item: "iceandfire:dragonsteel_ice_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:cave_spider"
+				icon: "spartanweaponry:cave_spider_head"
+				id: "0A70CF3E1761712D"
+				title: "1000 ARAÑAS DE CUEVA?"
+				type: "kill"
+				value: 1000L
+			}]
+			x: -5.0d
+			y: 0.0d
+		}
+		{
+			id: "48FEDC0F6F3CCE47"
+			rewards: [
+				{
+					count: 8
+					id: "3947CBE42F2D7F53"
+					item: "dedsafio3:deditamulticolor"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "122A18E7F4C29FD8"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "3CBB1213483DCA24"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "13A21EF9072F738A"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "460C6C9508244277"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					count: 64
+					id: "31817A3AAD6CFD7C"
+					item: "dedsafio3:dedita"
+					type: "item"
+				}
+				{
+					id: "7C2C70CDBCBE3E3D"
+					item: "dedsafio3:nutri_totem"
+					type: "item"
+				}
+				{
+					id: "1915D62321350360"
+					item: "dedsafio3:dedita_roja"
+					type: "item"
+				}
+				{
+					count: 4
+					id: "31E317A7C28902D9"
+					item: "iceandfire:dragonsteel_lightning_ingot"
+					type: "item"
+				}
+			]
+			tasks: [{
+				entity: "minecraft:enderman"
+				icon: "minecraft:ender_pearl"
+				id: "4176D624EEF1331E"
+				title: "1000 ENDERMANS?"
+				type: "kill"
+				value: 1000L
+			}]
+			x: -6.0d
+			y: 0.0d
+		}
+	]
+	title: "Viciosos misions"
+}

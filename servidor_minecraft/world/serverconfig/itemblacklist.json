@@ -1,0 +1,84 @@
+{
+  "items": [
+    {
+      "item_predicate": {
+        "items": [
+          "ihfr:sanguine_boots"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "iceandfire:cyclops_eye"
+        ],
+        "nbt": "{Damage:0}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "iceandfire:hydra_heart"
+        ]
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "relics:magma_walker"
+        ],
+        "nbt": "{abilities:{pace:{points:0,stats:{time:25.0434d}}}}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "relics:magma_walker"
+        ],
+        "nbt": "{abilities:{pace:{points:0,stats:{time:31.80612d}}}}"
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "travelersbackpack:magma_cube"
+        ]
+      },
+      "groups": [
+        "default"
+      ]
+    },
+    {
+      "item_predicate": {
+        "items": [
+          "mca:villager_editor"
+        ]
+      },
+      "groups": [
+        "default"
+      ]
+    }
+  ],
+  "groups": [
+    {
+      "name": "default",
+      "properties": {}
+    }
+  ]
+}
